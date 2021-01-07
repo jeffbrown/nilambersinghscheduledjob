@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: nilambersinghscheduledjob
+feature:
+  job:
+    execute: "1m"
